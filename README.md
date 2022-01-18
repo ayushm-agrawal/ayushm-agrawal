@@ -11,7 +11,7 @@
 <a href="//github.com/ayushm-agrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//twitter.com/AyushMAgr"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30px" /></a>
 <a href="//instagram.com/ayushm.agrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="30px" /></a>
-<a href="//linkedin.com/in/ayushm-agrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30px" /></a>
+<a href="//linkedin.com/in/ayushmagrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30px" /></a>
 <a href="//reddit.com/u/mrisonpike"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg" width="30px" /></a>
 <a href="mailto:ayushmagrawal@outlook.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft.svg" width="30px" /></a>
 <a href="mailto:ayush.agrawal7661@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="30px" /></a>
