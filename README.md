@@ -1,12 +1,12 @@
 ![Image](./header.png)
 
 - 🔭 I’m working on various publications related to Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning NLP, React
+- 🌱 I’m currently learning NLP, and Django
 - 👯 I’m looking to collaborate on any ML/DL research
 
 ![](https://komarev.com/ghpvc/?username=ayushm-agrawal&color=green)
 
-<h3 id="social">contact me</h3>
+<h3 id="social">Contact Me</h3>
 
 <a href="//github.com/ayushm-agrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//twitter.com/AyushMAgr"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30px" /></a>
