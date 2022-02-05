@@ -1,6 +1,6 @@
 ![Image](./header.png)
 
-- 🔭 I’m currently working on various publications related to Computer Vision and Natural Language Processing
+- 🔭 I’m working on various publications related to Computer Vision and Natural Language Processing
 - 🌱 I’m currently learning NLP, React
 - 👯 I’m looking to collaborate on any ML/DL research
 
@@ -27,12 +27,13 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30px"></span>&nbsp;
 
-<h3>things i am learning </h3>
+<h3>Things I am learning </h3>
 
 <br>
 
 <span><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="30px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30px"></span>&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="30px"></span>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushm-agrawal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
