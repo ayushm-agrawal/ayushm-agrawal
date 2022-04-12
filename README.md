@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning NLP, and Django
 - 👯 I’m looking to collaborate on any ML/DL research
 
-![](https://komarev.com/ghpvc/?username=ayushm-agrawal&color=green)
-
 <h3 id="social">Contact Me</h3>
 
 <a href="//github.com/ayushm-agrawal"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
